@@ -14,7 +14,7 @@ print ("[-] With this script, you can getting unlimited GB on Warp+.")
 print ("--------")
 print ("[+] THIS SCRIPT CODDED BY ALIILAPRO") 
 print ("--------")
-referrer = "REPLACE WITH UR ID"
+referrer = "6fb3fee4-48ae-4ac0-8df3-f58f6c6543c6"
 def genString(stringLength):
 	try:
 		letters = string.ascii_letters + string.digits
